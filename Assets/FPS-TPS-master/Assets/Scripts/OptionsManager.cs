@@ -21,7 +21,7 @@ public class OptionsManager : MonoBehaviour
 
     private void Update()
     {
-        audioManager.SetVolume("Background", volumeSlider.value);
+       // audioManager.SetVolume("Background", volumeSlider.value);
     }
 
     public void SaveAndExit()

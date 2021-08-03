@@ -14782,7 +14782,7 @@ GameObject:
   - component: {fileID: 1039616160}
   - component: {fileID: 1039616165}
   m_Layer: 0
-  m_Name: EnemyTwo
+  m_Name: Enemy_2
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19834,7 +19834,7 @@ GameObject:
   - component: {fileID: 2139658151}
   - component: {fileID: 2139658156}
   m_Layer: 0
-  m_Name: EnemyThree
+  m_Name: Enemy_3
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25559,7 +25559,7 @@ RectTransform:
   - {fileID: 408394028}
   - {fileID: 791285721}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -26146,7 +26146,7 @@ GameObject:
   - component: {fileID: 1904452701190858670}
   - component: {fileID: 1904452701190858672}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Enemy_1
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26291,7 +26291,7 @@ Transform:
   - {fileID: 8973960694122106195}
   - {fileID: 1908322633511433009}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!4 &1908164547666053693
 Transform:
@@ -27101,8 +27101,6 @@ MonoBehaviour:
   character: {fileID: 5136196582634996306}
   cameraTransform: {fileID: 1311890275527069342}
   mouseSenstivity: 2
-  invertX: 0
-  invertY: 0
   gravity: 9.8
   jumpForce: 500
   groundCheck: {fileID: 1311890276406478454}
@@ -27431,7 +27429,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8327896201282813143
 GameObject:
